@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Obaidur Rahman Obaidullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=or-obaidullah)](https://github.com/or-obaidullah/or-obaidullah)
+
+<img width="550px" alt="Obaidur Rahman Obaidullah's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=or-obaidullah&show_icons=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullah&card_width=550)](https://github.com/or-obaidullah/or-obaidullah)
 

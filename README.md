@@ -21,7 +21,7 @@ I'm a Full-Stack Developer for modern web applications built with React, Node js
 📈 **My GitHub Stats:**
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=or-obaidullah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullah&layout=compact)](https://github.com/or-obaidullah/or-obaidullah)
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullah&layout=compact)](https://github.com/or-obaidullah/or-obaidullah)
 
 
 

@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://github.com/or-obaidullah/or-obaidullah/blob/main/coding.gif" width="408" height="318" />
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=or-obaidullah)
-I'm a Full-Stack Developer for modern web applications built with React, Node js Express and Mongodb. Available for freelancing and remote projects.
+I'm a Full-Stack Developer for modern web applications built with React, Node js Express and Mongodb.
 
 **Talking about Personal Stuffs:**
 

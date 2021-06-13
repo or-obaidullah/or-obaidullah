@@ -10,7 +10,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=or-obaidullah)
 I'm a Full-Stack Developer for modern web applications built with React, Node js Express and Mongodb.
 
-<h3>Talking about Personal Stuffs:<h3>
+**Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Node js and Mongodb;
 - 💬 Ask me about anything, I am happy to help;

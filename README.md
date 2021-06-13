@@ -6,23 +6,13 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=or-obaidullah)
+I'm a Full-Stack Developer for modern web applications built with React, Node js Express and Mongodb. Available for freelancing and remote projects.
+
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m currently learning Node js and Mongodb;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: orobaidullah.bd@gmail.com;
+- 📝 [Resume](https://drive.google.com/file/d/1W3-zgND59kXn0pmTcZZ8FGpftNzV9VGn/view?usp=sharing).
 
 
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=or-obaidullah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

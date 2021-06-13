@@ -7,15 +7,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=or-obaidullah)
 
-<img width="550px" alt="Obaidur Rahman Obaidullah's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=or-obaidullah&show_icons=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullah&card_width=550)](https://github.com/or-obaidullah/or-obaidullah)
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=or-obaidullahr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullahr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=or-obaidullah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-obaidullah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 

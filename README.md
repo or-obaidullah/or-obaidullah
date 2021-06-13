@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/or_obaidullah)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
 
-<img align="right" alt="GIF" src="https://github.com/or-obaidullah/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/or-obaidullah/or-obaidullah/blob/main/coding.gif" width="408" height="318" />
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=or-obaidullah)
 I'm a Full-Stack Developer for modern web applications built with React, Node js Express and Mongodb. Available for freelancing and remote projects.
